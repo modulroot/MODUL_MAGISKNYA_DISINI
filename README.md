@@ -1,4 +1,7 @@
-Modul Magisk ada di release, berbentuk file zip
+Modul Magisk ada di releases di bawah👇 
+tulisan releases di tekan, setelah itu scroll ke bawah lagi di bagian asset
+berbentuk file zip
+bernama 10 Maret.zip
 
 Instagram: Seorangmaestro
 Email: Seorangmaestro@gmail.com
