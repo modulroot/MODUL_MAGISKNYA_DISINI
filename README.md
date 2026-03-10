@@ -5,6 +5,8 @@ tulisan releases di tekan, setelah itu scroll ke bawah lagi di bagian asset
 berbentuk file zip
 bernama 10 Maret.zip
 
+My social media:
+
 Instagram: Seorangmaestro
 Email: Seorangmaestro@gmail.com
 
